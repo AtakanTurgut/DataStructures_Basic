@@ -13,7 +13,7 @@ namespace arrays
     {
         static void Main(string[] args)
         {
-            // Array | Dizi
+            // Array | Dizi -> Arrays are of reference type.
             int[] sayilar = new int[] { 5, 3, 8, 10, 2, 18, 23, 44, 55, 6, 34, 19 };
 
             var numbers = Array.CreateInstance(typeof(int), sayilar.Length);
