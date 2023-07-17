@@ -9,5 +9,5 @@
 ## [SortedLists](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/sortedlists/sortedlists/Program.cs) 
 ![](pictures/sortedlists.PNG) 
 
-## [Lists<T>](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/lists/lists/Program.cs) 
+## [Lists<<T>>](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/lists/lists/Program.cs) 
 ![](pictures/lists.PNG) 
