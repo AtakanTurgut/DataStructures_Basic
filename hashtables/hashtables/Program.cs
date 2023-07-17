@@ -64,6 +64,7 @@ namespace hashtables
             Console.WriteLine(cities[38]);
             Console.WriteLine(cities[32]);
         }
+        
         private static void HashtableURLApp()
         {
             Console.WriteLine("Enter a Title:");
