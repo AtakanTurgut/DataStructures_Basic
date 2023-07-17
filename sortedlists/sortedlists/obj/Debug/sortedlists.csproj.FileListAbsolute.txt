@@ -1,0 +1,8 @@
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedlists\sortedlists\bin\Debug\sortedlists.exe.config
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedlists\sortedlists\bin\Debug\sortedlists.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedlists\sortedlists\bin\Debug\sortedlists.pdb
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedlists\sortedlists\obj\Debug\sortedlists.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedlists\sortedlists\obj\Debug\sortedlists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedlists\sortedlists\obj\Debug\sortedlists.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedlists\sortedlists\obj\Debug\sortedlists.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedlists\sortedlists\obj\Debug\sortedlists.pdb
