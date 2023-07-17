@@ -4,4 +4,4 @@
 ![](pictures/arrays.png)
 
 ## [HashTable](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/hashtables/hashtables/Program.cs) 
-![](pictures/hashtables.png)
+![](pictures/hashtables.png) 
