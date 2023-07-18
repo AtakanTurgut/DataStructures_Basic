@@ -1,0 +1,8 @@
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\queues\queues\bin\Debug\queues.exe.config
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\queues\queues\bin\Debug\queues.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\queues\queues\bin\Debug\queues.pdb
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\queues\queues\obj\Debug\queues.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\queues\queues\obj\Debug\queues.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\queues\queues\obj\Debug\queues.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\queues\queues\obj\Debug\queues.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\queues\queues\obj\Debug\queues.pdb

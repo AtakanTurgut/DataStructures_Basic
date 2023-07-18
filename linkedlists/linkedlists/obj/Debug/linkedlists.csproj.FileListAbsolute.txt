@@ -1,0 +1,8 @@
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\linkedlists\linkedlists\bin\Debug\linkedlists.exe.config
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\linkedlists\linkedlists\bin\Debug\linkedlists.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\linkedlists\linkedlists\bin\Debug\linkedlists.pdb
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\linkedlists\linkedlists\obj\Debug\linkedlists.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\linkedlists\linkedlists\obj\Debug\linkedlists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\linkedlists\linkedlists\obj\Debug\linkedlists.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\linkedlists\linkedlists\obj\Debug\linkedlists.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\linkedlists\linkedlists\obj\Debug\linkedlists.pdb

@@ -11,8 +11,10 @@ namespace hashtables
     {
         static void Main(string[] args)
         {
+            // Hashtable |       non-generic -> object -> boxing/unboxing
+            // key - value pairs | ConteinKey - ContainValue
+            
             HashtableCityApp(); // (key, value)
-
             Console.WriteLine('\n');
 
             HashtableURLApp();  // Converting from String to Hashtable
@@ -22,9 +24,6 @@ namespace hashtables
 
         public static void HashtableCityApp()
         {
-            // Hashtable |       non-generic -> object -> boxing/unboxing
-            // key - value pairs | ConteinKey - ContainValue
-
             var cities = new Hashtable();
 
             cities.Add(6, "Ankara");   // (key, value)

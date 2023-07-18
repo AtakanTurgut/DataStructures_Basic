@@ -1,0 +1,8 @@
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\stacks\stacks\bin\Debug\stacks.exe.config
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\stacks\stacks\bin\Debug\stacks.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\stacks\stacks\bin\Debug\stacks.pdb
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\stacks\stacks\obj\Debug\stacks.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\stacks\stacks\obj\Debug\stacks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\stacks\stacks\obj\Debug\stacks.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\stacks\stacks\obj\Debug\stacks.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\stacks\stacks\obj\Debug\stacks.pdb
