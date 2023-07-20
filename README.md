@@ -1,11 +1,17 @@
 # Basic Data Structures with C#
 
 ## [- Limit of Data Types -](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/LimitofDataTypes/LimitofDataTypes/Program.cs) 
+object -> reference type    <br />
+class -> It is used to define the user-side data type. <br />
+<br />
 8-bit -> 1 byte   <br />
 ![](pictures/LimitofDataTypes.PNG)
 
 ## [Arrays](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/arrays/arrays/Program.cs) 
 Array   |   Dizi -> Arrays are of reference type.   <br />
+- It has a method that cleans up array parts.    <br />
+- Allows array definition by specifying the type.    <br />
+- It is a class that contains array functions.   <br />
 ![](pictures/arrays.png)
 
 ## [HashTables()](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/hashtables/hashtables/Program.cs) 
@@ -15,7 +21,7 @@ key - value pairs | ConteinKey - ContainValue           (key, value)    <br />
 
 ## [SortedLists()](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/sortedlists/sortedlists/Program.cs) 
 SortedList  |       non-generic -> object   <br />
-key - value pairs  |   Sort by insertion added.         (key, value)    <br />
+key - value pairs  |   Sort by insertion added.  |   Sorts ascending.       (key, value)    <br />
 Access can be provided by key and index.  |  IndexOfKey - IndexOfValue  ->  GetKey - GetValue   <br /> 
 ![](pictures/sortedlists.PNG) 
 
@@ -27,7 +33,7 @@ Interface -> Inheritance : Inherits contracts.  <br />
 ## [Stacks<-T->](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/stacks/stacks/Program.cs) 
 Stack<-T->  |  Yığın           Type Safety  -> generic     <br />
 Last-in First-out     ->  LIFO      <br />
-.push() -> Ekleme          .pop() -> Çıkarma           .ToArray() -> int[]     <br />
+.push() -> Ekleme          .pop() -> Çıkarma        .Clear() -> Yığını boşaltma        .ToArray() -> int[]     <br />
 ![](pictures/stacks.PNG) 
 
 ## [Queues<-T->](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/queues/queues/Program.cs) 
