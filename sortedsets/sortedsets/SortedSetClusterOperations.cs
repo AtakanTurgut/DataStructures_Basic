@@ -71,7 +71,7 @@ namespace sortedsets
             Console.WriteLine("\nCount : {0}", A.Count);
            
             // Symmetric Except
-            A.SymmetricExceptWith(B);     // A = B except + A except = just A = just B
+            A.SymmetricExceptWith(B);     // A = B except + A except = just A + just B
 
             Console.WriteLine("\n- Symmetric Except -");
             foreach (var itemA in A)
