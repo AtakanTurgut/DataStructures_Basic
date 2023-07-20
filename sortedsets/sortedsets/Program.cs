@@ -30,6 +30,8 @@ namespace sortedsets
             SortSetUniqueNumbersListApp();
             Console.WriteLine();
 
+            SortedSetClusterOperations clusterOperations = new SortedSetClusterOperations();
+            clusterOperations.SortedSetClusterOperationsApp();
 
             Console.ReadKey();
         }

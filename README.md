@@ -73,4 +73,19 @@ intersect,  union,  except,  subset     <br />
              B.ExceptWith(A) -> { 5, 6 }
              A.SymmetricExceptWith(B) -> { 3, 4, 5, 6 }
             
-![](pictures/)
+![](pictures/sortedsets.PNG)
+
+## [HashSets<-T->](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/hashsets/hashsets/Program.cs) 
+HashSet<-T->    |    Type Safety -> generic      <br />
+Elements must be different from each other, but non-sorted.     <br />
+intersect,  union,  except,  subset     <br />
+-> kesişim, birleşim, ayrışım, alt küme    <br />
+            
+         A = { 1, 2, 3, 4 }          B = { 1, 2, 5, 6 }
+             A.UnionWith(B) -> { 1, 2, 3, 4, 5, 6 }
+             A.IntersectWith(B) -> { 1, 2 }
+             A.ExceptWith(B) -> { 3, 4 }
+             B.ExceptWith(A) -> { 5, 6 }
+             A.SymmetricExceptWith(B) -> { 3, 4, 5, 6 }
+            
+![](pictures/hashsets.PNG)
