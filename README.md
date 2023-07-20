@@ -41,12 +41,12 @@ The Operating System is used to set operating priorities.   <br />
 ## [LinkedLists<-T->](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/linkedlists/linkedlists/Program.cs) 
 LinkedList<-T->  |  Bağlı Liste           Type Safety  -> generic  <br />
 Non-sequential, linear data structure.  <br />
+.AddFirst()      .AddLast()      .First()    .Last()     .AddBefore()    .AddAfter()    <br />
 
             Node   ==   - | data | pointer
             <- | previous | data | next | ->
             firstNode ... lastNode
-
-.AddFirst()      .AddLast()      .First()    .Last()     .AddBefore()    .AddAfter()    <br />
+            
 ![](pictures/linkedlists.PNG)
 
 ## [Dictionaries<-TKey, TValue->](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/dictionaries/dictionaries/Program.cs) 
