@@ -41,7 +41,7 @@ Queue<-T->  |   Kuyruk         Type Safety  -> generic    <br />
 - First-in First-out    ->  FIFO  <br />
 - .Enqueue() -> Ekleme       .Dequeue() -> Çıkarma    <br />
 - The Operating System is used to set operating priorities.   <br />
-- > İşletim sistemlerinde çalışma önceliğini belirlemede kullanılır.   <br />
+- -> İşletim sistemlerinde çalışma önceliğini belirlemede kullanılır.   <br />
 ![](pictures/queues.PNG)
 
 ## [LinkedLists<-T->](https://github.com/AtakanTurgut/DataStructures_Basic/blob/main/linkedlists/linkedlists/Program.cs) 
@@ -70,7 +70,7 @@ SortedDictionary<-TKey,  TValue->    |        Type Safety  -> generic      <br /
 SortedSet<-T->    |   Type Safety -> generic  |  dynamic      <br />
 - Elements must be different from each other.     <br />
 - intersect,  union,  except,  subset     <br />
-- > kesişim, birleşim, ayrışım, alt küme    <br />
+- -> kesişim, birleşim, ayrışım, alt küme    <br />
             
          A = { 1, 2, 3, 4 }          B = { 1, 2, 5, 6 }
              A.UnionWith(B) -> { 1, 2, 3, 4, 5, 6 }
@@ -85,7 +85,7 @@ SortedSet<-T->    |   Type Safety -> generic  |  dynamic      <br />
 HashSet<-T->    |    Type Safety -> generic      <br />
 - Elements must be different from each other, but non-sorted.     <br />
 - intersect,  union,  except,  subset     <br />
-- > kesişim, birleşim, ayrışım, alt küme    <br />
+- -> kesişim, birleşim, ayrışım, alt küme    <br />
             
          A = { 1, 2, 3, 4 }          B = { 1, 2, 5, 6 }
              A.UnionWith(B) -> { 1, 2, 3, 4, 5, 6 }
