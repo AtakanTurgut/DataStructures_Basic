@@ -1,0 +1,8 @@
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedsets\sortedsets\bin\Debug\sortedsets.exe.config
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedsets\sortedsets\bin\Debug\sortedsets.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedsets\sortedsets\bin\Debug\sortedsets.pdb
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedsets\sortedsets\obj\Debug\sortedsets.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedsets\sortedsets\obj\Debug\sortedsets.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedsets\sortedsets\obj\Debug\sortedsets.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedsets\sortedsets\obj\Debug\sortedsets.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sortedsets\sortedsets\obj\Debug\sortedsets.pdb

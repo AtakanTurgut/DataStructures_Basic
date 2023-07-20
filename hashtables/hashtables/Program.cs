@@ -15,7 +15,7 @@ namespace hashtables
             // key - value pairs | ConteinKey - ContainValue
             
             HashtableCityApp(); // (key, value)
-            Console.WriteLine('\n');
+            Console.WriteLine();
 
             HashtableURLApp();  // Converting from String to Hashtable
 

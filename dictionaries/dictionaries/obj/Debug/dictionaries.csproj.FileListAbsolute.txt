@@ -1,0 +1,8 @@
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\dictionaries\dictionaries\bin\Debug\dictionaries.exe.config
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\dictionaries\dictionaries\bin\Debug\dictionaries.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\dictionaries\dictionaries\bin\Debug\dictionaries.pdb
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\dictionaries\dictionaries\obj\Debug\dictionaries.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\dictionaries\dictionaries\obj\Debug\dictionaries.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\dictionaries\dictionaries\obj\Debug\dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\dictionaries\dictionaries\obj\Debug\dictionaries.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\dictionaries\dictionaries\obj\Debug\dictionaries.pdb

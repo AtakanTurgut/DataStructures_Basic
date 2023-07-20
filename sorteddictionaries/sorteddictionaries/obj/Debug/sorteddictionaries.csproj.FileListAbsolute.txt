@@ -1,0 +1,8 @@
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sorteddictionaries\sorteddictionaries\bin\Debug\sorteddictionaries.exe.config
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sorteddictionaries\sorteddictionaries\bin\Debug\sorteddictionaries.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sorteddictionaries\sorteddictionaries\bin\Debug\sorteddictionaries.pdb
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sorteddictionaries\sorteddictionaries\obj\Debug\sorteddictionaries.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sorteddictionaries\sorteddictionaries\obj\Debug\sorteddictionaries.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sorteddictionaries\sorteddictionaries\obj\Debug\sorteddictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sorteddictionaries\sorteddictionaries\obj\Debug\sorteddictionaries.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\sorteddictionaries\sorteddictionaries\obj\Debug\sorteddictionaries.pdb

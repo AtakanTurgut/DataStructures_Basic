@@ -1,0 +1,8 @@
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\LimitofDataTypes\LimitofDataTypes\bin\Debug\LimitofDataTypes.exe.config
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\LimitofDataTypes\LimitofDataTypes\bin\Debug\LimitofDataTypes.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\LimitofDataTypes\LimitofDataTypes\bin\Debug\LimitofDataTypes.pdb
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\LimitofDataTypes\LimitofDataTypes\obj\Debug\LimitofDataTypes.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\LimitofDataTypes\LimitofDataTypes\obj\Debug\LimitofDataTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\LimitofDataTypes\LimitofDataTypes\obj\Debug\LimitofDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\LimitofDataTypes\LimitofDataTypes\obj\Debug\LimitofDataTypes.exe
+C:\Users\Excalibur\Desktop\AlgoritmaProgramlamaVeVeriYapıları\LimitofDataTypes\LimitofDataTypes\obj\Debug\LimitofDataTypes.pdb
