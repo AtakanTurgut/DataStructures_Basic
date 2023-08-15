@@ -85,7 +85,7 @@ intersect,  union,  except,  subset     <br />
 HashSet<-T->    |    Type Safety -> generic      <br />
 Elements must be different from each other, but non-sorted.     <br />
 intersect,  union,  except,  subset     <br />
--> kesişim, birleşim, ayrışım, alt küme    <br />
+-> kesişim, birleşim, ayrışım, alt küme    <br /> 
             
          A = { 1, 2, 3, 4 }          B = { 1, 2, 5, 6 }
              A.UnionWith(B) -> { 1, 2, 3, 4, 5, 6 }
